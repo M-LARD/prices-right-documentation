@@ -82,3 +82,13 @@ Describe the flow of data in your application. Write out what happens from the t
 ## Wireframe
 
 ![Checkout our Wireframe here](images/prices-right-wireframe.jpg)
+
+## Project Management Board and User Stories in Jira
+![Jira Board](https://m-lard.atlassian.net/jira/software/projects/MLAR/boards/1)
+
+## Domain Modeling
+![Domain Model Welcome](images/Domain model welcome.jpg)
+![Domain Model ](images/Domain model.jpg)
+
+## Database Model
+![Database Model](images/database-model.jpg)
