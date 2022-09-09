@@ -88,7 +88,7 @@ Describe the flow of data in your application. Write out what happens from the t
 
 ## Domain Modeling
 ![Domain Model Welcome](images/Domain model welcome.jpg)
-![Domain Model ](images/Domain model.jpg)
+![Domain Model](images/Domain model.jpg)
 
 ## Database Model
-![Database Model](images/database-model.jpg)
+![Database Model](images/database model.jpg)
