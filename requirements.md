@@ -74,17 +74,7 @@ Describe the flow of data in your application. Write out what happens from the t
 4. User has the ability to update and delete
 5. User has the option to logout
 
-Non-Functional Requirements (301 & 401 only)
-Non-functional requirements are requirements that are not directly related to the functionality of the application but still important to the app.
+## Non-Functional Requirements (301 & 401 only)
 
-Examples include:
 
-Security
-Usability
-Testability
-etc….
-Pick 2 non-functional requirements and describe their functionality in your application.
-
-If you are stuck on what non-functional requirements are, do a quick online search and do some research. Write a minimum of 3-5 sentences to describe how the non-functional requirements fits into your app.
-
-You MUST describe what the non-functional requirement is and how it will be implemented. Simply saying “Our project will be testable for testability” is NOT acceptable. Tell us how, why, and what.
+- Security will be implemented via Auth0.  This will entail the ability for the user to only see their favorites.  The app will implement good user experience (UX) practices with a CSS framework and guide the user on how to use the app.
