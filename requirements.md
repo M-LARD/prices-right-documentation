@@ -1,5 +1,5 @@
-Software Requirements
-Vision
+## Software Requirements
+### Vision
 
 What is the vision of this product?
 <p>Our vision is to allow users to research cost of living indexes for potential areas in the world. Our use cases include young professionals, retirees, and people looking for the best price point in the suburbs can look up housing, gas, and supplies for different areas.</p>
@@ -10,7 +10,7 @@ What pain point does this project solve?
 Why should we care about your product?
 <p> Because prices right? But also because it is more convenient and organized data that will help you understand metrics for when you are moving. Moving is one of the most stressful events in a person's life and we want to make sure it is less stressful. </p>
 
-Scope (In/Out)
+### Scope (In/Out)
 IN - What will your product do
 Describe the individual features that your product will do.
 High overview of each. Only need to list 4-5
@@ -29,7 +29,7 @@ What are your stretch goals?
 Stretch
 What stretch goals are you going to aim for?
 
-Functional Requirements
+### Functional Requirements
 List the functionality of your product. This will consist of tasks such as the following:
 
 An admin can create and delete user accounts
