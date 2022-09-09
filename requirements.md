@@ -78,3 +78,7 @@ Describe the flow of data in your application. Write out what happens from the t
 
 
 - Security will be implemented via Auth0.  This will entail the ability for the user to only see their favorites.  The app will implement good user experience (UX) practices with a CSS framework and guide the user on how to use the app.
+
+## Wireframe
+
+![Checkout our Wireframe here](images/prices-right-wireframe.jpg)
