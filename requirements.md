@@ -60,13 +60,19 @@ What stretch goals are you going to aim for?
 
 ### Functional Requirements
 
-List the functionality of your product. This will consist of tasks such as the following:
+- A user can create an account
+- A user can search for cities to compare cost of living and gas prices
+- A user can save, edit and delete searches
 
-An admin can create and delete user accounts
-A user can update their profile information
-A user can search all of the products in the inventory
-Data Flow
+## Data Flow
+
 Describe the flow of data in your application. Write out what happens from the time the user begins using the app to the time the user is done with the app. Think about the “Happy Path” of the application. Describe through visuals and text what requests are made, and what data is processed, in addition to any other details about how the user moves through the site.
+
+1. User enters the site and has the option to login
+2. User has the option to search for cities to compare data. Calls at least one API and retrieves data base.
+3. User has the option to save the retrieved data
+4. User has the ability to update and delete
+5. User has the option to logout
 
 Non-Functional Requirements (301 & 401 only)
 Non-functional requirements are requirements that are not directly related to the functionality of the application but still important to the app.
