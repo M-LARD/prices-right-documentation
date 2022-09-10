@@ -120,4 +120,4 @@ How will you communicate that it’s time to merge?
 
 ## Presentation Slide Link
 
-https://docs.google.com/presentation/d/1xAhkq_2kxocbcrQwJW3LcbEhVct1Bj-SYAn_lAYiBYs/edit?usp=sharingn
+[Final Presentation](https://docs.google.com/presentation/d/1xAhkq_2kxocbcrQwJW3LcbEhVct1Bj-SYAn_lAYiBYs/edit#slide=id.g152a6dc82c0_2_18)
